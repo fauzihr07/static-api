@@ -1,0 +1,68 @@
+[
+  {
+"nama": "Kawasaki Ninja ZX 25Rr",
+"cc": "249,5cc",
+"cylinder": "4 cyclinder",
+"imageId": "zx25"
+  },
+   {
+"nama": "BMW S 1000RR",
+"cc": "999cc",
+"cylinder": "4 cyclinder",
+"imageId": "bmws1000rr"
+  },
+   {
+"nama": "Ducati Panigale V4",
+"cc": "1.103cc",
+"cylinder": "4 cyclinder",
+"imageId": "ducatipanigalev4"
+  },
+  {
+"nama": "Kawasaki Ninja H2",
+"cc": "998cc",
+"cylinder": "4 cyclinder",
+"imageId": "kawasakininjah2"
+  },
+  {
+"nama": "Suzuki GSX1300R Hayabusa",
+"cc": "1340cc",
+"cylinder": "4 cyclinder",
+"imageId": "suzukihayabusa"
+  },
+  {
+"nama": "Yamaha YZF-R1",
+"cc": "998cc",
+"cylinder": "4 cyclinder",
+"imageId": "yamahar1"
+  },
+  {
+"nama": "Honda CBR1000RR",
+"cc": "1000cc",
+"cylinder": "4 cyclinder",
+"imageId": "hondacbr1000rr"
+  },
+  {
+"nama": "Yamaha YZF-R25",
+"cc": "250cc",
+"cylinder": "2 cyclinder",
+"imageId": "yamahar25"
+  },
+  {
+"nama": "Honda CBR250RR",
+"cc": "249,7cc",
+"cylinder": "2 cyclinder",
+"imageId": "hondacbr250rr"
+  },
+  {
+"nama": "Yamaha YZF-R6",
+"cc": "599cc",
+"cylinder": "4 cyclinder",
+"imageId": "yamahar6"
+  },
+  {
+"nama": "Honda CBR150R",
+"cc": "149,2cc",
+"cylinder": "1 cyclinder",
+"imageId": "hondacbr150r"
+  },
+]
